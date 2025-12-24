@@ -1,4 +1,4 @@
-// SwipeFlow Website JavaScript
+// DrinkUp Website JavaScript
 
 document.addEventListener('DOMContentLoaded', () => {
     // Mobile menu toggle
